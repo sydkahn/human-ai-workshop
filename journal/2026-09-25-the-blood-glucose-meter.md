@@ -15,7 +15,7 @@ The meter already knows how to communicate electronically. The problem
 is that the normal software ecosystem is not particularly interested in
 Linux.
 
-My main Linux computer is an old iMac I call **Minty**.
+My main computer is an old iMac with **Linux Mint** installed. I call it **Minty**.
 
 So naturally, the first question became:
 
