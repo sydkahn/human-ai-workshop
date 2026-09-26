@@ -3,6 +3,9 @@ layout: default
 title: The Human + AI Workshop
 ---
 
+![The Human + AI Workshop](assets/whatididwas.jpg)
+
+
 # The Human + AI Workshop
 
 ### A 75-year-old guy, a collection of old computers, an increasingly ridiculous home lab, and an AI assistant trying to build useful things.
