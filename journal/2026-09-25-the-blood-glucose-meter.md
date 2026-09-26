@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Blood Glucose Meter
+permalink: /journal/the-blood-glucose-meter/
+---
+
 # September 25, 2026 — The Blood Glucose Meter
 
 ## The Problem
