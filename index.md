@@ -40,7 +40,7 @@ That's what this journal is about.
 A little program that successfully retrieved a blood glucose reading
 from a medical meter.
 
-**[The Little Timestamp Program](journal/2026-09-25-the-timestamp-that-fixed-my-scanning-workflow.html)**
+**[The Little Timestamp Program](journal/the-timestamp-that-fixed-my-scanning-workflow/)**
 
 A tiny utility that generates timestamps for my scanning workflow and
 puts them directly into the clipboard.
