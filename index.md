@@ -35,7 +35,7 @@ That's what this journal is about.
 
 ### September 25, 2026
 
-**[The Blood Glucose Meter](journal/2026-09-25-the-blood-glucose-meter.html)**
+**[The Blood Glucose Meter](journal/the-blood-glucose-meter/)**
 
 A little program that successfully retrieved a blood glucose reading
 from a medical meter.
