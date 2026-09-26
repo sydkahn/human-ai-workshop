@@ -54,7 +54,7 @@ puts them directly into the clipboard.
 
 ### September 26, 2026
 
-**The ESP32 Medical Gateway**
+[**The ESP32 Medical Gateway**](journal/the-esp32-medical-gateway/)
 
 The blood-meter experiment raised a larger question:
 
