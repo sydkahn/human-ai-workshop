@@ -31,8 +31,8 @@ medical meter — and led to the larger gateway idea.
 
 **[The Little Timestamp Program](the-timestamp-that-fixed-my-scanning-workflow/)**
 
-A tiny utility that generates timestamps for scanned documents and
-copies them to the clipboard.
+A tiny utility that generates timestamps for my scanning workflow and
+puts them directly into the clipboard.
 
 ---
 
