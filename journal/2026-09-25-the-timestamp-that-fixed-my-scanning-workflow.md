@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Little Timestamp Program
+permalink: /journal/the-timestamp-that-fixed-my-scanning-workflow/
+---
+
 # September 25, 2026 — The Little Timestamp Program
 
 ## A Very Small Problem
