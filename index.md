@@ -30,6 +30,13 @@ line of configuration.
 And sometimes an experiment produces a completely different idea.
 
 That's what this journal is about.
+## Workshop Journal
+
+**[Read the Workshop Journal](journal/)**
+
+A running record of things tried, things built, things broken, and things learned.
+
+---
 
 ## The Recent Adventures
 
