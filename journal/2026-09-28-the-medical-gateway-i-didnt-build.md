@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Medical Gateway I Didn't Build
+permalink: /journal/the-medical-gateway-i-didnt-build/
+---
+
 # The Medical Gateway That I Decided Not to Build
 
 I had a plan.
