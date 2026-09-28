@@ -13,6 +13,15 @@ and things learned.
 
 ## September 2026
 
+### September 28
+
+**[The Medical Gateway I Didn't Build](the-medical-gateway-i-didnt-build/)**
+
+Sometimes the right engineering decision is to stop engineering. After
+getting the ESP32 to find the Zewa blood-pressure monitor, I discovered
+that my phone was already doing exactly what I was trying to build.
+
+
 ### September 26
 
 **[The ESP32 Medical Gateway](the-esp32-medical-gateway/)**
