@@ -9,7 +9,7 @@ permalink: /journal/
 A chronological record of things tried, things built, things broken,
 and things learned.
 
----
+--- 
 
 ## September 2026
 
