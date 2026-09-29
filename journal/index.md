@@ -15,7 +15,7 @@ and things learned.
 
 ### September 28
 
-**[The Medical Gateway I Didn't Build](journal/the-medical-gateway-i-didnt-build/)**
+**[The Medical Gateway I Didn't Build]({{ '/journal/the-medical-gateway-i-didnt-build/' | relative_url }})**
 
 
 Sometimes the right engineering decision is to stop engineering. After
