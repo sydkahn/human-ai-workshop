@@ -10,6 +10,13 @@ A chronological record of things tried, things built, things broken,
 and things learned.
 
 --- 
+## October 2026
+
+### October 14
+
+[**Photo Explorer: Teaching AI to Find the People in My Photographs**]({{ '/journal/photo-explorer/' | relative_url }})
+
+Can local AI help me organize decades of family photographs? I'm exploring a self-hosted photo catalog that groups faces, finds duplicates, and could eventually bring the family photo archive to the television. The project begins with a specification, a coding assistant, and an invitation for others to help shape the design.
 
 ## September 2026
 
